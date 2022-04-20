@@ -1,0 +1,661 @@
+price,carat,x,cut
+357,0.23,3.96,Very Good
+402,0.23,3.92,Very Good
+403,0.26,4.13,Very Good
+403,0.26,3.99,Good
+404,0.22,3.91,Premium
+553,0.24,3.97,Very Good
+554,0.26,4.08,Very Good
+554,0.26,4.01,Very Good
+554,0.26,4.03,Very Good
+2773,0.7,5.87,Premium
+2861,0.66,5.67,Premium
+2956,0.7,5.78,Premium
+2968,0.71,5.88,Premium
+2999,0.7,5.82,Very Good
+3073,0.7,5.81,Good
+3077,0.71,5.76,Premium
+3082,0.7,5.83,Good
+3090,0.71,5.89,Premium
+3092,0.7,5.7,Very Good
+3107,0.7,5.73,Good
+3131,0.7,5.73,Very Good
+3145,0.71,5.84,Very Good
+3161,0.71,5.73,Premium
+3161,0.71,5.86,Premium
+3183,0.7,5.75,Premium
+3193,0.7,5.68,Good
+3203,0.71,5.85,Very Good
+3205,0.72,5.82,Premium
+3208,0.7,5.73,Very Good
+3210,0.7,5.71,Premium
+3214,0.7,5.72,Premium
+3217,0.71,5.8,Premium
+3229,0.7,5.63,Premium
+3239,0.7,5.73,Premium
+3239,0.7,5.7,Very Good
+564,0.26,4.06,Good
+3247,0.7,5.63,Very Good
+3250,0.73,5.89,Premium
+3267,0.7,5.6,Good
+3294,0.74,6,Premium
+3308,0.73,5.85,Premium
+3312,0.7,5.61,Good
+3312,0.7,5.66,Good
+3332,0.71,5.64,Very Good
+3333,0.71,5.68,Very Good
+3353,0.74,5.89,Premium
+3365,0.7,5.69,Premium
+3365,0.74,5.8,Premium
+3366,0.71,5.68,Very Good
+3369,0.69,5.61,Good
+3375,0.7,5.65,Very Good
+3375,0.72,5.68,Very Good
+567,0.27,4.26,Premium
+567,0.31,4.26,Good
+568,0.3,4.32,Very Good
+3406,0.71,5.63,Very Good
+3410,0.7,5.67,Premium
+3411,0.73,5.76,Very Good
+3420,0.71,5.71,Very Good
+3425,0.7,5.69,Premium
+568,0.3,4.26,Good
+3461,0.74,5.79,Premium
+3465,0.71,5.65,Very Good
+3471,0.7,5.62,Premium
+3476,0.74,5.9,Very Good
+3477,0.7,5.67,Very Good
+3493,0.72,5.67,Very Good
+3498,0.74,5.8,Very Good
+3570,0.72,5.69,Good
+3581,0.76,5.87,Premium
+3644,0.77,5.85,Premium
+3670,0.71,5.64,Very Good
+3672,0.78,5.97,Very Good
+3787,0.77,6.01,Very Good
+3798,0.79,6.03,Very Good
+3800,0.78,5.87,Very Good
+575,0.27,4.04,Very Good
+3923,0.78,5.92,Very Good
+410,0.25,4.03,Very Good
+411,0.23,4.06,Premium
+413,0.27,4.14,Very Good
+4213,0.79,5.86,Very Good
+4284,0.81,5.94,Premium
+4443,0.84,6.06,Very Good
+4505,0.9,6.32,Premium
+4717,0.9,6.12,Premium
+4717,0.9,6.34,Good
+4729,0.9,6.27,Very Good
+4739,0.9,6.11,Good
+4914,0.9,6.17,Premium
+596,0.28,4.22,Very Good
+4969,0.91,6.23,Premium
+4981,0.9,6.12,Very Good
+5001,0.9,6.14,Premium
+5202,0.92,6.21,Very Good
+600,0.29,4.33,Very Good
+419,0.24,4.03,Very Good
+419,0.27,4.06,Very Good
+419,0.24,3.99,Very Good
+419,0.24,3.95,Very Good
+419,0.24,3.96,Very Good
+420,0.26,4.13,Very Good
+420,0.26,4.03,Very Good
+603,0.27,4.15,Premium
+608,0.3,4.25,Good
+610,0.3,4.31,Very Good
+610,0.3,4.32,Very Good
+610,0.3,4.22,Good
+610,0.3,4.39,Premium
+615,0.33,4.52,Very Good
+616,0.3,4.3,Good
+620,0.27,4.15,Very Good
+621,0.3,4.33,Good
+622,0.27,4.13,Very Good
+622,0.27,4.08,Very Good
+625,0.33,4.36,Good
+625,0.33,4.38,Good
+632,0.3,4.18,Good
+641,0.31,4.29,Very Good
+642,0.28,4.18,Very Good
+642,0.28,4.23,Very Good
+642,0.28,4.23,Very Good
+644,0.34,4.4,Good
+645,0.3,4.27,Very Good
+425,0.23,3.91,Good
+425,0.26,4.15,Very Good
+646,0.32,4.49,Very Good
+650,0.3,4.25,Very Good
+652,0.33,4.4,Good
+653,0.31,4.32,Good
+657,0.32,4.36,Very Good
+657,0.32,4.35,Good
+660,0.33,4.4,Very Good
+661,0.3,4.34,Premium
+661,0.3,4.34,Very Good
+663,0.3,4.24,Very Good
+664,0.29,4.2,Very Good
+664,0.29,4.21,Very Good
+666,0.3,4.35,Very Good
+357,0.23,3.9,Very Good
+362,0.23,3.86,Very Good
+367,0.24,3.96,Very Good
+670,0.3,4.26,Very Good
+681,0.33,4.39,Very Good
+683,0.31,4.38,Premium
+687,0.34,4.55,Premium
+689,0.3,4.23,Good
+692,0.31,4.37,Very Good
+696,0.33,4.46,Very Good
+697,0.3,4.24,Very Good
+698,0.34,4.55,Very Good
+436,0.25,3.97,Very Good
+707,0.3,4.26,Very Good
+709,0.31,4.27,Very Good
+710,0.24,4,Premium
+710,0.3,4.28,Premium
+710,0.3,4.23,Very Good
+710,0.3,4.23,Very Good
+710,0.3,4.33,Premium
+710,0.3,4.35,Premium
+710,0.3,4.28,Premium
+710,0.3,4.3,Premium
+710,0.3,4.33,Premium
+710,0.3,4.22,Very Good
+710,0.3,4.24,Very Good
+710,0.3,4.28,Premium
+710,0.3,4.22,Very Good
+710,0.3,4.32,Premium
+710,0.3,4.22,Very Good
+710,0.3,4.27,Very Good
+710,0.3,4.32,Premium
+710,0.3,4.27,Very Good
+710,0.3,4.29,Premium
+710,0.3,4.26,Very Good
+710,0.3,4.26,Premium
+710,0.3,4.25,Very Good
+710,0.3,4.29,Very Good
+710,0.3,4.26,Very Good
+710,0.3,4.28,Very Good
+710,0.3,4.29,Very Good
+710,0.3,4.29,Premium
+710,0.3,4.32,Premium
+710,0.3,4.25,Premium
+710,0.3,4.32,Premium
+710,0.3,4.25,Very Good
+712,0.3,4.28,Premium
+719,0.3,4.23,Good
+725,0.34,4.54,Very Good
+727,0.33,4.48,Very Good
+730,0.34,4.5,Very Good
+732,0.3,4.34,Premium
+734,0.31,4.31,Very Good
+734,0.31,4.3,Premium
+734,0.31,4.32,Very Good
+734,0.31,4.32,Premium
+734,0.31,4.36,Very Good
+734,0.31,4.32,Premium
+734,0.31,4.35,Premium
+734,0.31,4.31,Premium
+736,0.31,4.33,Very Good
+739,0.36,4.51,Good
+741,0.3,4.33,Premium
+742,0.33,4.45,Very Good
+742,0.3,4.25,Very Good
+742,0.3,4.25,Very Good
+752,0.3,4.27,Very Good
+752,0.3,4.25,Good
+752,0.3,4.26,Premium
+754,0.3,4.29,Very Good
+754,0.3,4.27,Very Good
+758,0.32,4.34,Very Good
+758,0.32,4.38,Premium
+758,0.32,4.38,Very Good
+758,0.32,4.35,Very Good
+758,0.32,4.42,Premium
+758,0.32,4.34,Premium
+760,0.37,4.7,Very Good
+762,0.33,4.52,Premium
+763,0.35,4.54,Very Good
+367,0.2,3.73,Premium
+367,0.2,3.77,Premium
+373,0.24,3.98,Very Good
+771,0.35,4.48,Very Good
+452,0.28,4.13,Very Good
+452,0.23,3.9,Good
+778,0.33,4.47,Very Good
+781,0.33,4.46,Premium
+781,0.33,4.43,Very Good
+781,0.33,4.41,Premium
+787,0.3,4.23,Good
+788,0.31,4.4,Premium
+791,0.32,4.41,Very Good
+792,0.35,4.49,Very Good
+799,0.27,4.12,Premium
+458,0.23,3.94,Very Good
+458,0.23,3.97,Very Good
+458,0.28,4.23,Very Good
+804,0.32,4.39,Very Good
+805,0.34,4.44,Very Good
+805,0.34,4.43,Very Good
+805,0.34,4.51,Premium
+805,0.34,4.52,Premium
+809,0.32,4.45,Very Good
+816,0.31,4.4,Premium
+816,0.31,4.37,Premium
+818,0.38,4.76,Very Good
+820,0.37,4.66,Very Good
+825,0.3,4.21,Good
+825,0.37,4.67,Good
+462,0.25,3.97,Good
+826,0.31,4.35,Very Good
+829,0.32,4.52,Premium
+829,0.35,4.53,Premium
+829,0.35,4.54,Premium
+829,0.35,4.57,Premium
+832,0.36,4.71,Very Good
+835,0.35,4.57,Very Good
+841,0.32,4.43,Very Good
+842,0.32,4.39,Premium
+846,0.35,4.61,Very Good
+847,0.38,4.7,Very Good
+848,0.3,4.38,Premium
+848,0.3,4.36,Premium
+848,0.3,4.39,Premium
+851,0.3,4.27,Premium
+852,0.36,4.63,Premium
+852,0.36,4.6,Premium
+852,0.36,4.59,Premium
+853,0.38,4.61,Good
+856,0.33,4.44,Very Good
+468,0.23,3.93,Very Good
+871,0.38,4.71,Very Good
+871,0.38,4.72,Very Good
+871,0.38,4.74,Very Good
+871,0.38,4.63,Good
+470,0.27,4.17,Very Good
+470,0.27,4.1,Very Good
+470,0.27,4.15,Very Good
+470,0.27,4.11,Very Good
+877,0.31,4.41,Premium
+881,0.34,4.59,Premium
+882,0.31,4.3,Premium
+910,0.32,4.37,Premium
+911,0.3,4.25,Premium
+911,0.3,4.27,Premium
+911,0.3,4.28,Premium
+911,0.3,4.34,Premium
+911,0.3,4.33,Premium
+911,0.3,4.32,Premium
+911,0.3,4.32,Premium
+911,0.3,4.32,Premium
+911,0.3,4.32,Premium
+911,0.3,4.31,Premium
+911,0.3,4.29,Premium
+911,0.3,4.3,Premium
+911,0.3,4.31,Premium
+911,0.3,4.3,Premium
+911,0.3,4.28,Premium
+911,0.3,4.29,Premium
+911,0.3,4.27,Premium
+911,0.3,4.26,Premium
+911,0.3,4.28,Premium
+914,0.3,4.34,Premium
+920,0.33,4.39,Very Good
+921,0.38,4.66,Very Good
+926,0.32,4.37,Premium
+933,0.36,4.66,Premium
+933,0.38,4.63,Very Good
+933,0.38,4.62,Very Good
+933,0.33,4.51,Premium
+942,0.31,4.31,Premium
+942,0.31,4.38,Premium
+942,0.31,4.33,Premium
+942,0.31,4.36,Premium
+942,0.31,4.38,Premium
+942,0.31,4.37,Premium
+942,0.31,4.35,Premium
+942,0.31,4.34,Premium
+944,0.38,4.67,Very Good
+478,0.24,4.02,Very Good
+478,0.24,3.96,Very Good
+948,0.33,4.4,Very Good
+952,0.4,4.77,Very Good
+954,0.4,4.74,Very Good
+954,0.4,4.75,Good
+958,0.39,4.74,Very Good
+478,0.24,4.04,Very Good
+478,0.23,3.9,Very Good
+478,0.23,3.83,Good
+965,0.3,4.3,Premium
+971,0.37,4.63,Premium
+972,0.32,4.42,Premium
+972,0.32,4.44,Premium
+972,0.32,4.43,Premium
+972,0.32,4.38,Premium
+973,0.32,4.4,Premium
+977,0.4,4.77,Very Good
+977,0.4,4.81,Very Good
+982,0.4,4.81,Very Good
+984,0.34,4.53,Premium
+986,0.41,4.8,Good
+989,0.37,4.68,Premium
+990,0.32,4.41,Premium
+485,0.24,3.99,Very Good
+485,0.23,3.86,Very Good
+485,0.24,4.02,Very Good
+995,0.41,4.83,Very Good
+995,0.38,4.77,Very Good
+998,0.38,4.66,Premium
+998,0.38,4.67,Premium
+1002,0.33,4.5,Premium
+1002,0.33,4.44,Premium
+1002,0.33,4.47,Premium
+1004,0.4,4.73,Very Good
+1005,0.38,4.6,Very Good
+1006,0.37,4.62,Premium
+485,0.23,3.94,Very Good
+485,0.24,4.05,Premium
+1009,0.38,4.71,Premium
+1009,0.42,4.87,Very Good
+386,0.21,3.82,Premium
+386,0.21,3.85,Premium
+386,0.21,3.89,Premium
+386,0.21,3.96,Premium
+487,0.28,4.19,Very Good
+1021,0.38,4.73,Premium
+1024,0.39,4.73,Premium
+1024,0.39,4.76,Premium
+1024,0.39,4.72,Premium
+1030,0.37,4.68,Premium
+1030,0.38,4.57,Very Good
+1033,0.34,4.56,Premium
+1033,0.34,4.55,Premium
+1033,0.34,4.5,Premium
+1038,0.37,4.66,Premium
+1040,0.39,4.79,Very Good
+1050,0.4,4.8,Premium
+1050,0.4,4.87,Premium
+1050,0.4,4.76,Premium
+1050,0.4,4.75,Premium
+1052,0.34,4.55,Premium
+1056,0.39,4.69,Very Good
+1063,0.35,4.61,Premium
+1063,0.35,4.58,Premium
+1063,0.35,4.56,Premium
+1063,0.35,4.6,Premium
+1064,0.38,4.81,Premium
+1067,0.38,4.6,Premium
+1067,0.38,4.62,Premium
+1069,0.37,4.63,Premium
+1071,0.37,4.61,Premium
+1078,0.4,4.88,Very Good
+1080,0.4,4.74,Good
+1082,0.41,4.84,Premium
+1092,0.39,4.61,Very Good
+1094,0.36,4.63,Premium
+1094,0.36,4.62,Premium
+1094,0.36,4.68,Premium
+1094,0.36,4.58,Premium
+1094,0.36,4.61,Premium
+492,0.23,3.89,Very Good
+492,0.24,3.95,Very Good
+492,0.24,3.99,Very Good
+492,0.23,3.94,Very Good
+1108,0.37,4.57,Very Good
+1117,0.38,4.67,Very Good
+1117,0.38,4.74,Premium
+1117,0.38,4.63,Premium
+1117,0.38,4.77,Premium
+1117,0.38,4.77,Premium
+1123,0.4,4.7,Premium
+1123,0.4,4.67,Very Good
+1123,0.4,4.78,Premium
+1123,0.4,4.79,Premium
+1123,0.39,4.69,Premium
+1124,0.37,4.63,Premium
+1128,0.4,4.7,Very Good
+1129,0.33,4.4,Premium
+1129,0.43,4.92,Premium
+1132,0.42,4.9,Premium
+1133,0.4,4.78,Very Good
+1135,0.4,4.74,Good
+1140,0.38,4.66,Premium
+1140,0.38,4.63,Premium
+1140,0.38,4.68,Premium
+1142,0.37,4.65,Premium
+1145,0.37,4.64,Premium
+1151,0.41,4.73,Very Good
+1151,0.41,4.73,Very Good
+1152,0.4,4.9,Premium
+1159,0.43,4.95,Premium
+1160,0.41,4.79,Very Good
+1167,0.39,4.63,Premium
+1167,0.35,4.53,Premium
+1168,0.4,4.7,Very Good
+1179,0.42,4.84,Premium
+1181,0.41,4.78,Premium
+1181,0.41,4.8,Premium
+1197,0.42,4.82,Very Good
+1199,0.43,4.82,Very Good
+1200,0.38,4.63,Very Good
+1200,0.4,4.81,Premium
+1200,0.4,4.81,Premium
+1200,0.4,4.73,Premium
+1200,0.4,4.72,Premium
+1206,0.4,4.72,Premium
+1210,0.42,4.96,Premium
+1232,0.39,4.65,Very Good
+1232,0.39,4.62,Very Good
+1232,0.39,4.66,Premium
+1232,0.44,4.93,Premium
+1234,0.43,4.93,Premium
+1235,0.42,4.85,Premium
+1235,0.42,4.87,Premium
+1238,0.43,4.97,Premium
+1238,0.42,4.79,Very Good
+388,0.25,4.05,Very Good
+388,0.25,4.07,Very Good
+388,0.25,4.05,Very Good
+1238,0.44,4.97,Good
+1255,0.39,4.58,Good
+1257,0.38,4.65,Premium
+1263,0.4,4.76,Premium
+1263,0.4,4.75,Very Good
+1263,0.4,4.74,Premium
+1263,0.4,4.76,Premium
+504,0.29,4.21,Very Good
+1286,0.41,4.87,Premium
+1290,0.39,4.66,Premium
+1290,0.39,4.69,Premium
+1290,0.39,4.7,Premium
+505,0.23,3.9,Very Good
+1295,0.41,4.72,Premium
+1295,0.41,4.75,Premium
+1295,0.41,4.78,Very Good
+1297,0.45,4.96,Premium
+1323,0.4,4.77,Premium
+1323,0.4,4.77,Premium
+1323,0.4,4.81,Premium
+1323,0.4,4.78,Premium
+1349,0.41,4.74,Very Good
+1349,0.41,4.71,Premium
+1356,0.41,4.79,Premium
+1356,0.41,4.82,Premium
+1356,0.41,4.75,Premium
+1358,0.45,4.98,Premium
+1364,0.41,4.79,Very Good
+1376,0.41,4.71,Very Good
+1413,0.41,4.77,Premium
+1422,0.47,5.06,Very Good
+512,0.25,3.98,Very Good
+512,0.25,3.98,Very Good
+514,0.28,4.15,Very Good
+1547,0.42,4.76,Very Good
+1548,0.45,5.01,Premium
+521,0.3,4.26,Good
+1616,0.51,5.18,Very Good
+1625,0.53,5.31,Good
+1628,0.5,5.14,Very Good
+1635,0.5,5.05,Good
+1635,0.5,5.04,Good
+1635,0.5,5.04,Good
+1635,0.5,5.05,Good
+1646,0.5,5.07,Very Good
+1657,0.5,5.05,Good
+1664,0.52,5.22,Very Good
+1668,0.51,5.07,Good
+1668,0.51,5.08,Good
+1671,0.5,5.08,Very Good
+1682,0.5,5.07,Very Good
+1683,0.5,5.18,Premium
+1701,0.52,5.23,Very Good
+1701,0.5,5.01,Good
+1703,0.5,5.19,Very Good
+1708,0.5,5.04,Good
+1712,0.5,5.13,Very Good
+1715,0.5,5.04,Very Good
+1716,0.51,5.18,Premium
+1750,0.5,5.09,Very Good
+1752,0.5,5.04,Very Good
+1752,0.5,5.04,Premium
+1752,0.5,5.09,Premium
+1752,0.5,5.11,Premium
+1752,0.5,5.05,Very Good
+1752,0.5,5.08,Premium
+1752,0.5,5.03,Very Good
+1756,0.51,5.15,Very Good
+1758,0.5,5.14,Very Good
+1758,0.5,5.03,Premium
+1758,0.5,5.09,Good
+1758,0.5,5.1,Very Good
+1758,0.5,5.07,Very Good
+1758,0.5,5.09,Very Good
+1775,0.53,5.22,Good
+1787,0.51,5.16,Very Good
+1787,0.51,5.12,Very Good
+1787,0.51,5.18,Premium
+1793,0.51,5.13,Very Good
+1793,0.51,5.1,Very Good
+1793,0.51,5.1,Very Good
+1795,0.5,5.02,Good
+1804,0.5,5.07,Very Good
+1807,0.51,5.12,Premium
+1807,0.51,5.09,Premium
+1807,0.51,5.12,Premium
+1807,0.5,5.05,Premium
+1808,0.53,5.23,Premium
+1812,0.51,5.12,Premium
+1818,0.51,5.19,Premium
+1819,0.5,5.13,Premium
+1819,0.5,5.08,Very Good
+1822,0.52,5.16,Premium
+1822,0.52,5.22,Very Good
+1825,0.53,5.29,Premium
+1825,0.53,5.23,Very Good
+1828,0.52,5.24,Premium
+1828,0.52,5.16,Very Good
+1828,0.52,5.13,Very Good
+1829,0.52,5.11,Very Good
+1838,0.51,5.05,Very Good
+1842,0.52,5.14,Premium
+1842,0.52,5.13,Premium
+530,0.23,3.91,Very Good
+530,0.23,3.92,Very Good
+530,0.23,3.89,Very Good
+530,0.23,3.91,Very Good
+530,0.23,3.92,Very Good
+1845,0.5,5.12,Premium
+1845,0.5,5.15,Premium
+1845,0.5,5.12,Premium
+1845,0.5,5.08,Premium
+1845,0.5,5.08,Premium
+1845,0.5,5.1,Premium
+1845,0.5,5.03,Premium
+1845,0.5,5.07,Premium
+1845,0.5,5.21,Premium
+1847,0.52,5.11,Very Good
+1847,0.5,5.04,Very Good
+1849,0.51,5.13,Very Good
+1857,0.53,5.23,Premium
+1857,0.53,5.2,Premium
+1868,0.52,5.2,Premium
+1873,0.51,5.24,Premium
+1877,0.51,5.16,Very Good
+1877,0.53,5.18,Premium
+1882,0.51,5.07,Very Good
+1882,0.51,5.24,Premium
+1882,0.51,5.19,Premium
+530,0.23,3.9,Very Good
+530,0.23,3.91,Very Good
+1882,0.51,5.16,Premium
+1885,0.54,5.24,Very Good
+1892,0.54,5.24,Very Good
+1892,0.54,5.26,Very Good
+1892,0.54,5.27,Premium
+1893,0.5,5.12,Very Good
+1894,0.55,5.33,Premium
+1904,0.53,5.26,Premium
+1907,0.53,5.25,Very Good
+1913,0.54,5.28,Premium
+1913,0.54,5.26,Premium
+1919,0.52,5.2,Premium
+1919,0.52,5.25,Premium
+532,0.28,4.14,Very Good
+532,0.26,4.05,Good
+533,0.25,3.94,Very Good
+1939,0.54,5.21,Good
+1940,0.53,5.25,Premium
+1956,0.53,5.26,Premium
+1956,0.53,5.24,Premium
+1959,0.51,5.1,Very Good
+1975,0.55,5.39,Very Good
+1977,0.51,5.19,Premium
+1980,0.5,5.1,Premium
+1988,0.54,5.38,Very Good
+1993,0.54,5.37,Premium
+1993,0.54,5.3,Premium
+1993,0.54,5.31,Premium
+1993,0.54,5.26,Premium
+1993,0.54,5.24,Premium
+1994,0.54,5.24,Premium
+1995,0.52,5.24,Very Good
+2004,0.54,5.18,Very Good
+2009,0.54,5.27,Premium
+2011,0.56,5.33,Premium
+2015,0.57,5.42,Good
+2016,0.54,5.19,Very Good
+2030,0.55,5.29,Premium
+2066,0.56,5.34,Premium
+2087,0.51,5.12,Premium
+2093,0.57,5.43,Premium
+2100,0.54,5.3,Premium
+2113,0.54,5.24,Very Good
+2188,0.56,5.32,Very Good
+2192,0.58,5.37,Premium
+2214,0.6,5.53,Premium
+544,0.27,4.14,Very Good
+399,0.25,4.07,Very Good
+402,0.23,3.96,Very Good
+402,0.23,3.91,Very Good
+402,0.23,3.92,Very Good
+2288,0.62,5.62,Good
+2326,0.59,5.37,Premium
+2360,0.57,5.38,Premium
+2400,0.58,5.28,Very Good
+2401,0.58,5.46,Premium
+2429,0.61,5.42,Very Good
+2431,0.6,5.41,Very Good
+546,0.26,4.18,Premium
+2481,0.61,5.49,Very Good
+548,0.25,4.02,Very Good
+548,0.25,3.99,Very Good
+548,0.25,4.03,Very Good
+548,0.25,4,Very Good
+2515,0.59,5.34,Premium
+2538,0.59,5.4,Premium
+2554,0.63,5.6,Premium
+552,0.24,3.96,Very Good
+552,0.24,3.94,Very Good
+2752,0.65,5.55,Very Good
